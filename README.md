@@ -1,8 +1,8 @@
 # Project Description
 
-This project is a WhatsApp bot that uses OpenAI's ChatGPT (GPT-4) to respond to user inputs.
+This project is a WhatsApp bot that uses OpenAI's ChatGPT (GPT-3,5) to respond to user inputs.
 
-![photo_2023-01-06 20 06 27](https://user-images.githubusercontent.com/38583057/211094028-9c512d9c-56df-4195-b21b-f588a33a7d79.jpeg)
+![photo_2023-01-06 20 06 27](https://user-images.githubusercontent.com/38583057/211094028-9c512d9c-56df-4195-b21b-f588a33a7d79.jpeg) 
 
 ## Requirements
 
@@ -16,7 +16,7 @@ This project is a WhatsApp bot that uses OpenAI's ChatGPT (GPT-4) to respond to 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/noelzappy/chatgpt-whatsapp.git
+git clone https://github.com/givenmusa/chatgpt-whatsapp.git
 ```
 
 ```bash
